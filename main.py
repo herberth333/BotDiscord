@@ -1,4 +1,5 @@
 #Hello world
 
-eu = "Amo peitos"
-print(eu)
+teste = "Em progresso..."
+
+print(teste)
